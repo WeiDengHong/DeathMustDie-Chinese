@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Death Must Die 简体中文汉化：翻译词条展示</title>
+  <desc id="desc">根据汉化 2.9.0 实际词库制作的信息图，展示覆盖范围、战斗术语、对话和动态文本。本图不是游戏实机截图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c111b"/><stop offset="1" stop-color="#171b2c"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#c69a55"/><stop offset="1" stop-color="#f2d59b"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#202639"/><stop offset="1" stop-color="#171d2c"/></linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#050810" flood-opacity=".36"/></filter>
+  </defs>
+  <rect width="1600" height="1120" fill="url(#bg)"/>
+  <circle cx="1420" cy="95" r="240" fill="#9d6e36" opacity=".075"/>
+  <circle cx="110" cy="1020" r="260" fill="#5465a1" opacity=".07"/>
+  <path d="M80 78H1520" stroke="#bd9a61" stroke-opacity=".42"/>
+  <text x="96" y="148" fill="#e8c98e" font-size="20" letter-spacing="5" font-family="Segoe UI, Microsoft YaHei, sans-serif">DEATH MUST DIE  ·  COMMUNITY LOCALIZATION</text>
+  <text x="94" y="224" fill="#f5f0e7" font-size="58" font-weight="700" font-family="Noto Serif SC, Microsoft YaHei, serif">简体中文汉化</text>
+  <text x="98" y="274" fill="#b5bdcb" font-size="25" font-family="Segoe UI, Microsoft YaHei, sans-serif">2.9.0 翻译词条展示</text>
+  <rect x="1263" y="119" width="241" height="48" rx="24" fill="#282d3c" stroke="#77745f"/>
+  <text x="1384" y="150" text-anchor="middle" fill="#ead8b5" font-size="17" font-family="Microsoft YaHei, sans-serif">词库实录 · 非实机截图</text>
+
+  <g filter="url(#shadow)">
+    <rect x="94" y="328" width="435" height="174" rx="18" fill="url(#panel)" stroke="#333b50"/>
+    <rect x="582" y="328" width="435" height="174" rx="18" fill="url(#panel)" stroke="#333b50"/>
+    <rect x="1070" y="328" width="435" height="174" rx="18" fill="url(#panel)" stroke="#333b50"/>
+  </g>
+  <text x="132" y="386" fill="#aeb9ca" font-size="18" font-family="Microsoft YaHei, sans-serif">游戏文本分类</text>
+  <text x="130" y="452" fill="url(#gold)" font-size="50" font-weight="700" font-family="Segoe UI, sans-serif">54</text>
+  <text x="240" y="451" fill="#f2eee7" font-size="24" font-family="Microsoft YaHei, sans-serif">张词条表</text>
+  <text x="132" y="480" fill="#8893a7" font-size="16" font-family="Segoe UI, Microsoft YaHei, sans-serif">菜单、角色、装备、属性、神明赐福等</text>
+
+  <text x="620" y="386" fill="#aeb9ca" font-size="18" font-family="Microsoft YaHei, sans-serif">游戏文本条目</text>
+  <text x="618" y="452" fill="url(#gold)" font-size="50" font-weight="700" font-family="Segoe UI, sans-serif">8,441</text>
+  <text x="812" y="451" fill="#f2eee7" font-size="24" font-family="Microsoft YaHei, sans-serif">条</text>
+  <text x="620" y="480" fill="#8893a7" font-size="16" font-family="Segoe UI, Microsoft YaHei, sans-serif">包括词条、描述、状态和界面文案</text>
+
+  <text x="1108" y="386" fill="#aeb9ca" font-size="18" font-family="Microsoft YaHei, sans-serif">NPC 对话</text>
+  <text x="1106" y="452" fill="url(#gold)" font-size="50" font-weight="700" font-family="Segoe UI, sans-serif">4,170</text>
+  <text x="1290" y="451" fill="#f2eee7" font-size="24" font-family="Microsoft YaHei, sans-serif">句</text>
+  <text x="1108" y="480" fill="#8893a7" font-size="16" font-family="Segoe UI, Microsoft YaHei, sans-serif">对话文本独立收录，保留语气和表情</text>
+
+  <g filter="url(#shadow)">
+    <rect x="94" y="550" width="700" height="470" rx="20" fill="url(#panel)" stroke="#374056"/>
+    <rect x="826" y="550" width="679" height="470" rx="20" fill="url(#panel)" stroke="#374056"/>
+  </g>
+  <text x="136" y="614" fill="#f4eddf" font-size="27" font-weight="700" font-family="Microsoft YaHei, sans-serif">战斗术语 · 前后一致</text>
+  <text x="136" y="654" fill="#9da9bc" font-size="17" font-family="Microsoft YaHei, sans-serif">菜单、战斗词条与说明采用同一套译名</text>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="21">
+    <rect x="132" y="692" width="292" height="57" rx="10" fill="#252c3d"/><text x="155" y="729" fill="#9296aa">Attack</text><text x="383" y="729" fill="#f3eee5" text-anchor="end">攻击</text>
+    <rect x="444" y="692" width="310" height="57" rx="10" fill="#252c3d"/><text x="467" y="729" fill="#81b6be">Dash</text><text x="713" y="729" fill="#f3eee5" text-anchor="end">疾冲</text>
+    <rect x="132" y="762" width="292" height="57" rx="10" fill="#252c3d"/><text x="155" y="799" fill="#c24538">Strike</text><text x="383" y="799" fill="#f3eee5" text-anchor="end">打击</text>
+    <rect x="444" y="762" width="310" height="57" rx="10" fill="#252c3d"/><text x="467" y="799" fill="#3e8cda">Cast</text><text x="713" y="799" fill="#f3eee5" text-anchor="end">施法</text>
+    <rect x="132" y="832" width="292" height="57" rx="10" fill="#252c3d"/><text x="155" y="869" fill="#b58d40">Power</text><text x="383" y="869" fill="#f3eee5" text-anchor="end">威能</text>
+    <rect x="444" y="832" width="310" height="57" rx="10" fill="#252c3d"/><text x="467" y="869" fill="#9558c9">Summon</text><text x="713" y="869" fill="#f3eee5" text-anchor="end">召唤</text>
+  </g>
+  <text x="136" y="950" fill="#c1cad8" font-size="18" font-family="Microsoft YaHei, sans-serif">简短术语适配战斗 UI；游戏原有颜色标记保留。</text>
+
+  <text x="868" y="614" fill="#f4eddf" font-size="27" font-weight="700" font-family="Microsoft YaHei, sans-serif">对话 · 装备 · 动态说明</text>
+  <text x="868" y="654" fill="#9da9bc" font-size="17" font-family="Microsoft YaHei, sans-serif">既翻译信息，也保留角色说话的感觉</text>
+  <rect x="864" y="685" width="602" height="144" rx="13" fill="#111722" stroke="#323b50"/>
+  <text x="891" y="721" fill="#ddba80" font-size="15" letter-spacing="1" font-family="Segoe UI, Microsoft YaHei, sans-serif">NPC 对话示例</text>
+  <text x="891" y="762" fill="#f2eee7" font-size="19" font-family="Microsoft YaHei, sans-serif">没想到死神门口还站着个活着的守卫 :p</text>
+  <text x="891" y="802" fill="#cbd2de" font-size="19" font-family="Microsoft YaHei, sans-serif">所以……你是想让我带着沙漏下去？</text>
+  <text x="868" y="870" fill="#ddba80" font-size="15" letter-spacing="1" font-family="Segoe UI, Microsoft YaHei, sans-serif">神明赐福 · 动态数值照常显示</text>
+  <text x="868" y="910" fill="#e6eaf0" font-size="18" font-family="Microsoft YaHei, sans-serif">受到伤害时，你获得 [持续时间] 秒无敌。</text>
+  <text x="868" y="942" fill="#aeb9ca" font-size="16" font-family="Microsoft YaHei, sans-serif">此效果每 [冷却时间] 秒至多触发一次。</text>
+  <text x="868" y="986" fill="#8893a7" font-size="15" font-family="Microsoft YaHei, sans-serif">原文中的动态数值、颜色与格式标签由词库保留。</text>
+
+  <path d="M96 1060H1504" stroke="#3a4050"/>
+  <text x="96" y="1090" fill="#8792a5" font-size="15" font-family="Segoe UI, Microsoft YaHei, sans-serif">DEATH MUST DIE · 简体中文社区汉化 · 版本 2.9.0</text>
+  <text x="1504" y="1090" fill="#8792a5" font-size="15" text-anchor="end" font-family="Microsoft YaHei, sans-serif">实际词条选段 · 示意图，非实机截图</text>
+</svg>
